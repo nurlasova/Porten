@@ -1,0 +1,7 @@
+.brand{
+    background-color: #0F0F0F;
+    padding: 60px 0 80px;
+}
+.brand__row{
+    justify-content: space-between;
+}

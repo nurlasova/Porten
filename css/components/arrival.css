@@ -1,0 +1,35 @@
+.arrival{
+    padding-bottom: 120px;
+}
+.arrival__backgraund{
+    background-color: #191B1C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 55px 22px;
+    margin-bottom: 25px;
+}
+.arrival__name{
+    font-family: 'Playfair Display',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.arrival__price{
+    font-family: 'Playfair Display', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    color: #D0D0D0;
+    margin-top: 10px;
+}
+.arrival__title{
+    padding-top: 120px;
+}
+.arrival__item{
+    /* padding-right:  23px; */
+    margin:10px 12px;
+}

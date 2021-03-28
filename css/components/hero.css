@@ -1,0 +1,46 @@
+.hero {
+  background-image: url("../../images/png/herobg.png");
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 0;
+}
+.hero__title {
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  text-transform: uppercase;
+  color: #ffffff;
+  border-top: 2px solid white;
+  display: block;
+  padding-top: 7px;
+}
+.hero__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.hero__rectangle {
+  border: 4px solid white;
+  padding: 94px 68px;
+  margin-bottom: 80px;
+}
+.hero__rectangle svg {
+  margin-bottom: 10px;
+}
+.hero__text {
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+  width: 730px;
+}
